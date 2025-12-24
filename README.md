@@ -1,17 +1,30 @@
-## Hello, I'm Amulanga 👋
 
-<!--
-**lidzhievaam/lidzhievaam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-I'm Manual QA Engineer | 2+ years of quality assurance | Test Analyst
-‧ 2+ years of experience in software quality.
-‧ Proficient in Black-box, Functional, Regression, Smoke/Sanity, UX/UI, Accessibility, Cross-browser, and Cross-platform testing.
-‧Strong knowledge of SDLC, STLC, Agile/Scrum methodologies.
-‧ Experienced in test case design, test planning, bug reporting, and defect lifecycle management.
-‧Familiar with API testing (Postman) and working with databases (SQL queries).
+<h1 align="center">Hello, I'm Amulanga Lildieva. 👋</h1>
 
-Tools: Jira, TestRail, Chrome DevTools, WAVE, NVDA, Postman, SQL, Git, GitHub, Pendo, Azure DevOps, HTML/CSS.
--->
-https://www.linkedin.com/in/amulangalidzhieva/
-https://t.me/amka_mil
-https://www.instagram.com/amka_mil/
+<h3 align="left">👩‍💻  QA Engineer | Manual Testing | Web & Mobile Applications</h3>
+
+###
+
+<p align="left">I am a QA Engineer skilled in manual software testing. I work on functional, regression, smoke/sanity, UX/UI, cross-browser, and cross-platform testing. Experienced in writing test cases, test plans, and detailed bug reports. Familiar with tools such as Jira, TestRail, Azure DevOps, Postman, SQL, Chrome DevTools, WAVE, NVDA, Git, GitHub, and basic HTML/CSS. 
+  
+  Always aiming to improve product quality and user experience.</p>
+
+  ###
+  
+<div align="center">
+  <a href="https://www.linkedin.com/in/amulangalidzhieva/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=linkedin&logo=linkedin&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  
+<div align="center">
+  <a href="https://t.me/amka_mil" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+  </a>
+</div>
+
+###
+
+
+
