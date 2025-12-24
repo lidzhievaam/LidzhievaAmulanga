@@ -1,7 +1,8 @@
-## Hi there 👋
+## Hello, I'm Amulanga 👋
 
 <!--
 **lidzhievaam/lidzhievaam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 I'm Manual QA Engineer | 2+ years of quality assurance | Test Analyst
 ‧ 2+ years of experience in software quality.
 ‧ Proficient in Black-box, Functional, Regression, Smoke/Sanity, UX/UI, Accessibility, Cross-browser, and Cross-platform testing.
